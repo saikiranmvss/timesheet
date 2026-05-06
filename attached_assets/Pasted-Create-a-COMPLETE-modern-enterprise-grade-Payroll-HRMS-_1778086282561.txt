@@ -1,0 +1,371 @@
+Create a COMPLETE modern enterprise-grade Payroll + HRMS + Timesheet Management SaaS application UI similar to:
+
+- PayHero
+- PayrollHero
+- Deel
+- BambooHR
+- Rippling
+- Zoho People
+- UKG
+- Deputy
+
+Tech Stack:
+- React.js
+- Bootstrap 5
+- Modern responsive enterprise UI
+- Sidebar layout
+- Component-based architecture
+- Reusable pages/components
+- Light professional theme
+- Corporate SaaS design
+- Mobile responsive
+- Clean tables and dashboards
+
+Design Style:
+- Enterprise HR/payroll software
+- Clean white background
+- Blue/Indigo primary colors
+- Minimal and modern
+- Large readable tables
+- Sticky headers
+- Soft shadows
+- Rounded cards
+- Professional payroll software feel
+- Avoid crypto dashboard look
+- Avoid gaming UI
+- Similar feel to PayHero / PayrollHero
+
+Create COMPLETE UI SCREENS and WORKFLOW for:
+
+==================================================
+AUTHENTICATION MODULE
+==================================================
+
+- Login page
+- Forgot password
+- Reset password
+- Role-based login
+- Employee login
+- Supervisor login
+- Admin login
+
+==================================================
+GLOBAL LAYOUT
+==================================================
+
+Create:
+- Left collapsible sidebar
+- Top navbar
+- Notification dropdown
+- User profile dropdown
+- Responsive layout
+- Dark/light mode toggle
+- Search bar
+- Breadcrumbs
+
+Sidebar Menu:
+- Dashboard
+- Timesheets
+- Calculated Hours
+- Payroll
+- Employees
+- Projects
+- Work Packs
+- Teams
+- Approvals
+- Reports
+- Notifications
+- Settings
+- Profile
+
+==================================================
+EMPLOYEE DASHBOARD
+==================================================
+
+Create modern dashboard with:
+- Total Hours card
+- Overtime Hours card
+- Payroll Summary card
+- Current Week Hours
+- Attendance summary
+- Recent Timesheets
+- Notifications
+- Approval status widgets
+- Charts for hours worked
+- Payroll trends
+
+==================================================
+TIMESHEET MODULE
+==================================================
+
+Create COMPLETE Timesheet Management UI.
+
+Features:
+- Daily timesheet view
+- Previous day / next day navigation
+- Current date display
+- Date picker search
+- Add Timesheet button
+- Timesheet popup modal
+
+Fields:
+- Project dropdown
+- Work Pack dropdown
+- Location
+- Shift Type
+- Description
+- Hours Spent
+
+Header Metrics:
+- Start Time
+- End Time
+- Total Hours
+- Overtime Hours
+
+Create:
+- Editable table rows
+- Inline editing
+- Delete actions
+- Status indicators
+- Draft/Submitted/Approved/Rejected states
+
+Include:
+- Submit Timesheet button
+- Locked state UI
+- Unlock status UI
+- Empty state UI
+
+==================================================
+CALCULATED HOURS TAB
+==================================================
+
+Create separate Calculated Hours page/tab.
+
+Features:
+- Weekly/Fortnightly/Monthly tabs
+- Payroll cycle detection UI
+- Period summary cards
+- Total Hours
+- Total Overtime
+- Period Start Date
+- Period End Date
+
+Table Columns:
+- Date
+- Time In
+- Time Out
+- Total Hours
+- Overtime Hours
+
+Create:
+- Read-only summary tables
+- Period filters
+- Payroll cycle selector
+- Summary charts
+
+==================================================
+PAYROLL MODULE
+==================================================
+
+Create modern payroll system pages.
+
+Features:
+- Payroll dashboard
+- Payroll processing page
+- Employee salary breakdown
+- Overtime pay calculations
+- Tax deductions
+- Payroll history
+- Download payslip
+- Payroll approval workflow
+- Payroll status indicators
+
+Include:
+- Weekly payroll
+- Fortnightly payroll
+- Monthly payroll
+
+Create:
+- Payslip UI
+- Salary cards
+- Payment history tables
+- Payroll analytics charts
+
+==================================================
+EMPLOYEE MANAGEMENT MODULE
+==================================================
+
+Create employee management screens.
+
+Features:
+- Employee list table
+- Employee profile page
+- Add/Edit employee modal
+- Employee details form
+
+Fields:
+- Employee Name
+- Employee Number
+- Email
+- Address
+- Designation
+- Pay Type
+- Hourly Rate
+- Monthly Salary
+- Payment Frequency
+- Overtime Threshold
+- Currency
+- Employee Status
+
+Include:
+- Profile tabs
+- Payroll settings
+- Leave balances
+- Attendance history
+
+==================================================
+PROJECT & WORK PACK MODULE
+==================================================
+
+Create project management pages.
+
+Features:
+- Project list
+- Create project form
+- Work pack management
+- Project assignment
+- Work pack dropdowns
+
+Fields:
+- Project Name
+- Project Number
+- Work Pack Name
+- Work Pack Number
+
+Create:
+- Filterable tables
+- Search
+- Pagination
+- Project cards
+
+==================================================
+SUPERVISOR DASHBOARD
+==================================================
+
+Create Supervisor/Team Lead portal.
+
+Features:
+- Team member list
+- Team timesheets
+- Approval queue
+- Overtime summary
+- Team hours analytics
+
+Actions:
+- Approve
+- Reject
+- Unlock Timesheet
+
+Create:
+- Team summary cards
+- Approval workflow UI
+- Employee detail pages
+- Status tracking
+
+==================================================
+ADMIN DASHBOARD
+==================================================
+
+Create enterprise admin dashboard.
+
+Features:
+- Global analytics
+- Employee statistics
+- Payroll analytics
+- Timesheet approvals
+- Team management
+- Payroll processing
+- System settings
+
+Include:
+- Powerful filter system
+- Employee search
+- Date range filters
+- Payroll type filters
+- Status filters
+
+Create:
+- Analytics charts
+- KPI widgets
+- Large enterprise tables
+- Audit log UI
+- Notifications center
+
+==================================================
+NOTIFICATIONS MODULE
+==================================================
+
+Create notification system UI.
+
+Notifications:
+- Timesheet submitted
+- Timesheet approved
+- Timesheet rejected
+- Payroll processed
+- Unlock request
+- Approval alerts
+
+==================================================
+REPORTS MODULE
+==================================================
+
+Create reporting dashboards.
+
+Reports:
+- Payroll reports
+- Employee hours reports
+- Overtime reports
+- Attendance reports
+- Team reports
+
+Include:
+- Export buttons
+- CSV/PDF actions
+- Charts
+- Filters
+
+==================================================
+DESIGN REQUIREMENTS
+==================================================
+
+Use:
+- Bootstrap 5
+- React components
+- ApexCharts
+- Modern DataTables
+- Professional icons
+- Reusable modals
+- Responsive grids
+
+UI should feel like:
+- enterprise payroll SaaS
+- HRMS software
+- workforce management platform
+
+IMPORTANT:
+- Create MANY realistic UI pages
+- Use realistic enterprise dummy data
+- Include all workflows
+- Make tables professional
+- Add charts/cards/analytics
+- Create reusable components
+- Create responsive layouts
+- Create professional typography
+- Include hover states and interactions
+
+Generate:
+- Full app layout
+- Multiple pages
+- Complete navigation
+- Enterprise-grade UI structure
+- Production-level frontend design
